@@ -1,6 +1,9 @@
 # plugins-npm
 
 ## Npm 安装包试水插件
+```
+  npm i @plugin-private/plugins-npm
+```
 
 ```
 import { Toast, TipsLayer } from '@plugin-private/plugins-npm';
